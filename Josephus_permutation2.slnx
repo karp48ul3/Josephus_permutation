@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Josephus_permutation2/Josephus_permutation2.vcxproj" />
+</Solution>
